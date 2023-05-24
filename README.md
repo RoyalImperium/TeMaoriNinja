@@ -1,3 +1,4 @@
 # TeMaoriNinja
 Unity Game Te Maori Ninja
-https://github.com/RoyalImperium/TeMaoriNinja/index.html
+https://github.com/RoyalImperium/TeMaoriNinja/
+
